@@ -16,7 +16,7 @@ Dự án này bao gồm các nhóm dữ liệu sau:
 *   **File `.ipn`**: Môi trường trình diễn (Presentation) chứa không gian phân rã chi tiết (Exploded view).
 
 ### 2. Bản vẽ kỹ thuật 2D (Drawings & PDFs)
-*   **File `.dwg`**: Bản vẽ 2D gốc chứa hệ thống kích thước, dung sai và yêu cầu kỹ thuật.
+*   **File `.dwg`**: Bản vẽ 2D gốc chứa hệ thống kích thước.
 *   **Bản vẽ lắp ráp (Assembly Drawing).pdf**: Bản vẽ thể hiện hình chiếu tổng thể, mặt cắt cụm, đánh bóng (Balloon) và bảng kê vật tư (BOM) để dễ dàng xem trước mà không cần cài phần mềm CAD.
 *   **Bản vẽ chi tiết (Detail Drawing).pdf**: Bản vẽ bóc tách ghi đầy đủ kích thước phục vụ gia công chế tạo.
 
@@ -32,3 +32,4 @@ Dự án này bao gồm các nhóm dữ liệu sau:
 
 ---
 *Dự án được thiết kế và hoàn thiện bởi [Nguyễn Văn Huy Hoàng - Mechatronics Undergraduate in HCMUT]*
+*Chú ý: Repo chỉ mang tính tham khảo để học tập. Không được lấy để làm quy chuẩn, tác giả sẽ không chịu trách nhiệm.
